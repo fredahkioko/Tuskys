@@ -55,7 +55,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="x_panel">
                         <div class="x_title">
-                            <h2> Remaining To Deposite Deails</h2>
+                            <h2> Remaining To Deposit Deails</h2>
                             <ul class="nav navbar-right panel_toolbox">
                                 <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                                 </li>
@@ -79,7 +79,7 @@
                                 <tr>
                                     <th>S.N.</th>
                                     <th>Total Amount</th>
-                                    <th>deposite Amount</th>
+                                    <th>deposit Amount</th>
                                     <th>Remaining To Deposite</th>
                                     <th>Deposited By</th>
                                     <th>Deposited Date</th>
@@ -156,7 +156,7 @@
                                 <tr>
                                     <th>S.N.</th>
                                     <th>Total Amount</th>
-                                    <th>deposite Amount</th>
+                                    <th>deposit Amount</th>
                                     <th>Remaining To Deposite</th>
                                     <th>Deposited By</th>
                                     <th>Deposited Date</th>
