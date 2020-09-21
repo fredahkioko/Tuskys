@@ -12,10 +12,10 @@
     <tr>
         <th>S.N.</th>
         <th>Total Amount</th>
-        <th>Deposite Amount</th>
+        <th>Deposit Amount</th>
         <th>Remaining to Deposite</th>
-        <th>Deposite by</th>
-        <th>Deposite Date</th>
+        <th>Deposit by</th>
+        <th>Deposit Date</th>
         <th>Bank Name</th>
     </tr>
     </thead>
@@ -77,5 +77,3 @@
     </tbody>
 </table>
 </body></html>
-
-
